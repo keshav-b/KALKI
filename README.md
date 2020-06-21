@@ -1,4 +1,4 @@
-# KALKI
+# Summarisation of commercial contracts
 
 ## About
 A summarisation tool that accepts a Commercial Document and displays it's summary based on the topics chosen by the user.
